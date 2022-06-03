@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "80485464025",
+    "project_id": "be-my-hear",
+    "storage_bucket": "be-my-hear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80485464025:android:45c0e6fb57a01538db4bc8",
+        "android_client_info": {
+          "package_name": "com.app.be_my_hear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80485464025-5bndmlc831gtst51uothrv09aqubtm3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZlBMgKgJtM9X48lEV69AHBxpiqQlqJtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80485464025-5bndmlc831gtst51uothrv09aqubtm3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80485464025:android:880ee58a1d3c1bc7db4bc8",
+        "android_client_info": {
+          "package_name": "com.example.be_my_hear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80485464025-5bndmlc831gtst51uothrv09aqubtm3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZlBMgKgJtM9X48lEV69AHBxpiqQlqJtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80485464025-5bndmlc831gtst51uothrv09aqubtm3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
